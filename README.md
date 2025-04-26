@@ -23,7 +23,7 @@ The toolkit is designed for easy customization, allowing you to adjust plot labe
 
 ---
 
-## 👩‍💻 Author
+## 💅 Author
 
 Created by [@m-pristi](https://github.com/m-pristi)
 
